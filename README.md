@@ -1,5 +1,5 @@
 # svelte app
-- 스벨트 프로젝트
+- 스벨트 프로젝트2
 
 
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
